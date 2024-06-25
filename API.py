@@ -20,6 +20,7 @@ app.add_middleware(
 
 @app.post("/")
 def upload_answer(question: int, answer: str, participant_name: str):
-  assert answer == df.answer[question]
+  if answer != df.answer[question]:
+    return "👎"
   pd.DataFrame([{"timestamp": datetime.now(), "participant_name": participant_name, "question": question, "answer": answer}]).to_csv("answers.csv", mode="a", header=False, index=False)
   return "👍"
