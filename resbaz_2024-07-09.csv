@@ -1,0 +1,710 @@
+timestamp,participant_name,question,answer,is_correct
+2024-07-10 01:30:14.977322,Jens Brinkmann,0,10,True
+2024-07-10 01:30:17.374943,Margaret Carpenter,0,10,True
+2024-07-10 01:30:19.373644,Rebecca M,0,10,True
+2024-07-10 01:30:20.718552,Kasey Kiesewetter,0,10,True
+2024-07-10 01:30:20.820053,Rebecca M,0,10,True
+2024-07-10 01:30:21.951600,Isaac Bain,0,10,True
+2024-07-10 01:30:25.715692,Jenny Lee,0,9,False
+2024-07-10 01:30:30.548270,Simon Esling,0,9,False
+2024-07-10 01:30:38.277307,Erin Steed,0,10,True
+2024-07-10 01:30:41.537164,Therese Featherston,0,10,True
+2024-07-10 01:30:51.422675,Jenny Lee,0,9,False
+2024-07-10 01:30:52.218864,Simon Esling,0,10,True
+2024-07-10 01:30:54.525438,Sara Sladwick,0,10,True
+2024-07-10 01:31:00.273789,Yimei Chuah,0,7,False
+2024-07-10 01:31:14.459617,Jieyun Wu,0,10,True
+2024-07-10 01:31:33.383894,Therese Featherston,1,3471,True
+2024-07-10 01:31:55.342739,Maira Fessardi,0,10,True
+2024-07-10 01:32:40.198196,Margaret Carpenter,1,3471,True
+2024-07-10 01:32:46.852603,Kasey Kiesewetter,1,3471,True
+2024-07-10 01:32:50.678948,Jieyun Wu,1,3471,True
+2024-07-10 01:32:51.087471,Tithi Gandhi,1,3471,True
+2024-07-10 01:32:57.768452,Mary Spring,0,10,True
+2024-07-10 01:32:58.966759,Rebecca M,1,3471,True
+2024-07-10 01:33:01.120804,Tithi Gandhi,0,8,False
+2024-07-10 01:33:03.316412,Maira Fessardi,1,3471,True
+2024-07-10 01:33:03.425417,Lisa Watkins,1,3471,True
+2024-07-10 01:33:04.504321,Isaac Bain,1,3471,True
+2024-07-10 01:33:07.460803,Tithi Gandhi,0,8,False
+2024-07-10 01:33:08.142349,Erin Steed,1,3471,True
+2024-07-10 01:33:10.449870,Jenny Lee,1,3471,True
+2024-07-10 01:33:11.617224,Elisa Tam,1,3471,True
+2024-07-10 01:33:17.881741,Margaret Carpenter,2,9.0,True
+2024-07-10 01:33:23.872228,Lisa Watkins,2,👍,False
+2024-07-10 01:33:24.839172,Simon Esling,1,3471,True
+2024-07-10 01:33:35.044042,Yimei Chuah,1,3471,True
+2024-07-10 01:33:41.690756,Kasey Kiesewetter,2,9.0,True
+2024-07-10 01:33:41.904246,Therese Featherston,2,9.0,True
+2024-07-10 01:33:48.707224,Erin Steed,2,9.0,True
+2024-07-10 01:33:49.312401,Tithi Gandhi,2,9.0,True
+2024-07-10 01:33:49.733340,Jenny Lee,2,9.0,True
+2024-07-10 01:33:52.026891,Jieyun Wu,2,9.0,True
+2024-07-10 01:33:52.987764,Rebecca M,2,9.0,True
+2024-07-10 01:33:55.896027,Lisa Watkins,2,9.0,True
+2024-07-10 01:33:58.520763,Isaac Bain,2,9.0,True
+2024-07-10 01:33:59.775486,Simon Esling,2,9.0,True
+2024-07-10 01:34:01.730376,Elisa Tam,2,9.0,True
+2024-07-10 01:34:04.607961,Margaret Carpenter,3,👍,False
+2024-07-10 01:34:08.622876,Therese Featherston,3,👍,False
+2024-07-10 01:34:10.579329,Jieyun Wu,3,👍,False
+2024-07-10 01:34:11.216310,Margaret Carpenter,3,👎,False
+2024-07-10 01:34:11.577926,Yimei Chuah,2,9.0,True
+2024-07-10 01:34:12.931456,Isaac Bain,3,👍,False
+2024-07-10 01:34:13.483653,Rebecca M,3,👍,False
+2024-07-10 01:34:18.121629,Tithi Gandhi,3,👍,False
+2024-07-10 01:34:26.492352,Elisa Tam,3,👍,False
+2024-07-10 01:34:26.538788,Maira Fessardi,2,9.0,True
+2024-07-10 01:34:26.613459,Jenny Lee,3,👍,False
+2024-07-10 01:34:27.542631,Kasey Kiesewetter,3,👍,False
+2024-07-10 01:34:29.308162,Erin Steed,3,👍,False
+2024-07-10 01:34:33.912225,Simon Esling,3,👍,False
+2024-07-10 01:34:34.839166,Therese Featherston,3,👎,False
+2024-07-10 01:34:35.267687,Kasey Kiesewetter,3,👎,False
+2024-07-10 01:34:38.473741,Jieyun Wu,3,👎,False
+2024-07-10 01:34:44.003214,Margaret Carpenter,3,👎,False
+2024-07-10 01:34:46.986718,Simon Esling,3,👎,False
+2024-07-10 01:34:50.490873,Yimei Chuah,3,👍,False
+2024-07-10 01:34:51.652317,Therese Featherston,3,👎,False
+2024-07-10 01:34:52.396055,Lisa Watkins,3,👍,False
+2024-07-10 01:35:05.058057,Therese Featherston,3,👎,False
+2024-07-10 01:35:10.504973,Lisa Watkins,3,👎,False
+2024-07-10 01:35:26.836943,Jenny Lee,3,👎,False
+2024-07-10 01:36:11.315578,Rebecca M,3,👎,False
+2024-07-10 01:43:23.702767,Rebecca M,3,👎,False
+2024-07-10 01:43:28.277257,Tithi Gandhi,3,👎,False
+2024-07-10 01:43:48.003606,Jenny Lee,3,👎,False
+2024-07-10 01:44:07.339951,Jens Brinkmann,3,👍,False
+2024-07-10 01:45:03.475745,Maira Fessardi,3,👍,False
+2024-07-10 01:47:01.110194,Maira Fessardi,3,👎,False
+2024-07-10 02:10:15.960689,Isaac Bain,4,6.0,True
+2024-07-10 02:10:17.177640,Kasey Kiesewetter,4,6.0,True
+2024-07-10 02:10:18.064958,Jieyun Wu,4,6.0,True
+2024-07-10 02:10:21.241533,Tithi Gandhi,4,6.0,True
+2024-07-10 02:10:31.531931,Jieyun Wu,5,string,True
+2024-07-10 02:10:34.532913,Kasey Kiesewetter,5,string,True
+2024-07-10 02:10:35.832881,Isaac Bain,5,string,True
+2024-07-10 02:10:40.933603,Jieyun Wu,6,int,True
+2024-07-10 02:10:41.884155,Margaret Carpenter,4,6.0,True
+2024-07-10 02:10:43.207310,Kasey Kiesewetter,6,int,True
+2024-07-10 02:10:45.710301,Maira Fessardi,4,6.0,True
+2024-07-10 02:10:47.510671,Rebecca M,4,6.0,True
+2024-07-10 02:10:48.322667,Isaac Bain,6,int,True
+2024-07-10 02:10:48.767649,Margaret Carpenter,4,6.0,True
+2024-07-10 02:10:54.078097,Elisa Tam,4,6.0,True
+2024-07-10 02:10:57.289999,Therese Featherston,4,6.0,True
+2024-07-10 02:11:01.029860,Jenny Lee,4,6.0,False
+2024-07-10 02:11:03.023613,Rebecca M,5,string,True
+2024-07-10 02:11:08.201948,Elisa Tam,5,string,True
+2024-07-10 02:11:09.572483,Kasey Kiesewetter,7,"[""banana"", ""apple"", ""orange""]",True
+2024-07-10 02:11:12.931497,Jieyun Wu,7,"[""banana"", ""apple"", ""orange""]",True
+2024-07-10 02:11:16.298673,Therese Featherston,5,string,True
+2024-07-10 02:11:16.772400,Margaret Carpenter,5,string,True
+2024-07-10 02:11:18.223468,Tithi Gandhi,6,int,True
+2024-07-10 02:11:19.111530,Jenny Lee,4,math.sqrt(36),False
+2024-07-10 02:11:20.815344,Elisa Tam,6,int,True
+2024-07-10 02:11:24.691694,Isaac Bain,7,"[""banana"", ""apple"", ""orange""]",True
+2024-07-10 02:11:26.794526,Rebecca M,6,int,True
+2024-07-10 02:11:27.250907,Tithi Gandhi,5,string,True
+2024-07-10 02:11:28.398610,Therese Featherston,6,int,True
+2024-07-10 02:11:29.235450,Erin Steed,5,string,True
+2024-07-10 02:11:38.292095,Margaret Carpenter,6,string,False
+2024-07-10 02:11:54.158699,Erin Steed,4,6.0,True
+2024-07-10 02:11:54.955529,Tithi Gandhi,7,"[""banana"", ""apple"", ""orange""]",True
+2024-07-10 02:11:55.350058,Rebecca M,7,"[""banana"", ""apple"", ""orange""]",True
+2024-07-10 02:11:59.374240,Elisa Tam,7,"[""banana"", ""apple"", ""orange""]",True
+2024-07-10 02:12:03.289614,Mary Spring,5,int,False
+2024-07-10 02:12:07.341187,Yimei Chuah,4,6.0,True
+2024-07-10 02:12:13.026977,Therese Featherston,7,"[""banana"", ""apple"", ""orange""]",True
+2024-07-10 02:12:16.334432,Mary Spring,6,int,True
+2024-07-10 02:12:20.749220,Yimei Chuah,5,string,True
+2024-07-10 02:12:36.637862,Erin Steed,7,"[""banana"", ""apple"", ""orange""]",True
+2024-07-10 02:12:50.866241,Yimei Chuah,6,int,True
+2024-07-10 02:13:00.471437,Maira Fessardi,5,list,False
+2024-07-10 02:13:04.905672,Jenny Lee,7,"[""banana"", ""apple"", ""orange""]",True
+2024-07-10 02:13:13.878996,Maira Fessardi,5,dict,False
+2024-07-10 02:13:20.214105,Maira Fessardi,5,int,False
+2024-07-10 02:13:20.503630,Jenny Lee,6,int,True
+2024-07-10 02:13:26.312985,Maira Fessardi,5,list,False
+2024-07-10 02:13:31.368195,Jenny Lee,5,list,False
+2024-07-10 02:13:39.283906,Margaret Carpenter,7,"[""banana"", ""apple"", ""orange""]",True
+2024-07-10 02:13:40.498928,Maira Fessardi,6,int,True
+2024-07-10 02:13:41.411228,Yimei Chuah,7,"[""banana"", ""apple"", ""orange""]",True
+2024-07-10 02:13:42.237532,Jenny Lee,5,string,True
+2024-07-10 02:14:13.789724,Mary Spring,5,list,False
+2024-07-10 02:14:23.595318,Mary Spring,5,list,False
+2024-07-10 02:14:34.695653,Mary Spring,5,list,False
+2024-07-10 02:14:40.219908,Maira Fessardi,7,"[""banana"", ""appl"", ""orange""]",False
+2024-07-10 02:14:45.064589,Mary Spring,5,list,False
+2024-07-10 02:14:48.999604,Maira Fessardi,7,"[""banana"", ""apple"", ""orange""]",True
+2024-07-10 02:26:12.833710,Kasey Kiesewetter,8,"# @title Check Answer for Exercise 8
+import requests
+def test_check_number():
+    try:
+        assert check_number(10) == ""Positive""
+        assert check_number(-5) == ""Negative""
+        assert check_number(0) == ""Zero""
+        return True
+    except AssertionError:
+        return False
+
+is_correct = test_check_number()
+requests.post(f""http://resbaz.auckland-cer.cloud.edu.au/"", params={
+  ""question"": 8,
+  ""answer"": In[-1],
+  ""participant_name"": participant_name,
+  ""is_correct"": is_correct
+}).json()",False
+2024-07-10 02:28:25.160293,Tithi Gandhi,8,"# @title Check Answer for Exercise 8
+import requests
+def test_check_number():
+    try:
+        assert check_number(10) == ""Positive""
+        assert check_number(-5) == ""Negative""
+        assert check_number(0) == ""Zero""
+        return True
+    except AssertionError:
+        return False
+
+is_correct = test_check_number()
+requests.post(f""http://resbaz.auckland-cer.cloud.edu.au/"", params={
+  ""question"": 8,
+  ""answer"": In[-1],
+  ""participant_name"": participant_name,
+  ""is_correct"": is_correct
+}).json()",False
+2024-07-10 02:30:12.425053,Elisa Tam,8,"# @title Check Answer for Exercise 8
+import requests
+def test_check_number():
+    try:
+        assert check_number(10) == ""Positive""
+        assert check_number(-5) == ""Negative""
+        assert check_number(0) == ""Zero""
+        return True
+    except AssertionError:
+        return False
+
+is_correct = test_check_number()
+requests.post(f""http://resbaz.auckland-cer.cloud.edu.au/"", params={
+  ""question"": 8,
+  ""answer"": In[-1],
+  ""participant_name"": participant_name,
+  ""is_correct"": is_correct
+}).json()",False
+2024-07-10 02:31:04.026083,Therese Featherston,1500,Option B the Waiter and Tips,True
+2024-07-10 02:31:41.590949,Kasey Kiesewetter,1500,Option B the Waiter and Tips,True
+2024-07-10 02:31:42.921739,Therese Featherston,8,"# @title Check Answer for Exercise 8
+import requests
+def test_check_number():
+    try:
+        assert check_number(10) == ""Positive""
+        assert check_number(-5) == ""Negative""
+        assert check_number(0) == ""Zero""
+        return True
+    except AssertionError:
+        return False
+
+is_correct = test_check_number()
+requests.post(f""http://resbaz.auckland-cer.cloud.edu.au/"", params={
+  ""question"": 8,
+  ""answer"": In[-1],
+  ""participant_name"": participant_name,
+  ""is_correct"": is_correct
+}).json()",False
+2024-07-10 02:31:51.427014,Rebecca M,8,"# @title Check Answer for Exercise 8
+import requests
+def test_check_number():
+    try:
+        assert check_number(10) == ""Positive""
+        assert check_number(-5) == ""Negative""
+        assert check_number(0) == ""Zero""
+        return True
+    except AssertionError:
+        return False
+
+is_correct = test_check_number()
+requests.post(f""http://resbaz.auckland-cer.cloud.edu.au/"", params={
+  ""question"": 8,
+  ""answer"": In[-1],
+  ""participant_name"": participant_name,
+  ""is_correct"": is_correct
+}).json()",False
+2024-07-10 02:31:59.638166,Erin Steed,8,"# @title Check Answer for Exercise 8
+import requests
+def test_check_number():
+    try:
+        assert check_number(10) == ""Positive""
+        assert check_number(-5) == ""Negative""
+        assert check_number(0) == ""Zero""
+        return True
+    except AssertionError:
+        return False
+
+is_correct = test_check_number()
+requests.post(f""http://resbaz.auckland-cer.cloud.edu.au/"", params={
+  ""question"": 8,
+  ""answer"": In[-1],
+  ""participant_name"": participant_name,
+  ""is_correct"": is_correct
+}).json()",False
+2024-07-10 02:32:00.634035,Tithi Gandhi,8,"# @title Check Answer for Exercise 8
+import requests
+def test_check_number():
+    try:
+        assert check_number(10) == ""Positive""
+        assert check_number(-5) == ""Negative""
+        assert check_number(0) == ""Zero""
+        return True
+    except AssertionError:
+        return False
+
+is_correct = test_check_number()
+requests.post(f""http://resbaz.auckland-cer.cloud.edu.au/"", params={
+  ""question"": 8,
+  ""answer"": In[-1],
+  ""participant_name"": participant_name,
+  ""is_correct"": is_correct
+}).json()",False
+2024-07-10 02:32:11.654164,Erin Steed,8,"# @title Check Answer for Exercise 8
+import requests
+def test_check_number():
+    try:
+        assert check_number(10) == ""Positive""
+        assert check_number(-5) == ""Negative""
+        assert check_number(0) == ""Zero""
+        return True
+    except AssertionError:
+        return False
+
+is_correct = test_check_number()
+requests.post(f""http://resbaz.auckland-cer.cloud.edu.au/"", params={
+  ""question"": 8,
+  ""answer"": In[-1],
+  ""participant_name"": participant_name,
+  ""is_correct"": is_correct
+}).json()",False
+2024-07-10 02:32:39.663640,Therese Featherston,8,"# @title Check Answer for Exercise 8
+import requests
+def test_check_number():
+    try:
+        assert check_number(10) == ""Positive""
+        assert check_number(-5) == ""Negative""
+        assert check_number(0) == ""Zero""
+        return True
+    except AssertionError:
+        return False
+
+is_correct = test_check_number()
+requests.post(f""http://resbaz.auckland-cer.cloud.edu.au/"", params={
+  ""question"": 8,
+  ""answer"": In[-1],
+  ""participant_name"": participant_name,
+  ""is_correct"": is_correct
+}).json()",False
+2024-07-10 02:32:56.673399,Tithi Gandhi,8,"# @title Check Answer for Exercise 8
+import requests
+def test_check_number():
+    try:
+        assert check_number(10) == ""Positive""
+        assert check_number(-5) == ""Negative""
+        assert check_number(0) == ""Zero""
+        return True
+    except AssertionError:
+        return False
+
+is_correct = test_check_number()
+requests.post(f""http://resbaz.auckland-cer.cloud.edu.au/"", params={
+  ""question"": 8,
+  ""answer"": In[-1],
+  ""participant_name"": participant_name,
+  ""is_correct"": is_correct
+}).json()",False
+2024-07-10 02:33:00.905843,Kasey Kiesewetter,8,"# @title Check Answer for Exercise 8
+import requests
+def test_check_number():
+    try:
+        assert check_number(10) == ""Positive""
+        assert check_number(-5) == ""Negative""
+        assert check_number(0) == ""Zero""
+        return True
+    except AssertionError:
+        return False
+
+is_correct = test_check_number()
+requests.post(f""http://resbaz.auckland-cer.cloud.edu.au/"", params={
+  ""question"": 8,
+  ""answer"": In[-1],
+  ""participant_name"": participant_name,
+  ""is_correct"": is_correct
+}).json()",False
+2024-07-10 02:33:25.155187,Kasey Kiesewetter,8,"# @title Check Answer for Exercise 8
+import requests
+def test_check_number():
+    try:
+        assert check_number(10) == ""Positive""
+        assert check_number(-5) == ""Negative""
+        assert check_number(0) == ""Zero""
+        return True
+    except AssertionError:
+        return False
+
+is_correct = test_check_number()
+requests.post(f""http://resbaz.auckland-cer.cloud.edu.au/"", params={
+  ""question"": 8,
+  ""answer"": In[-1],
+  ""participant_name"": participant_name,
+  ""is_correct"": is_correct
+}).json()",False
+2024-07-10 02:33:43.252378,Elisa Tam,8,"# @title Check Answer for Exercise 8
+import requests
+def test_check_number():
+    try:
+        assert check_number(10) == ""Positive""
+        assert check_number(-5) == ""Negative""
+        assert check_number(0) == ""Zero""
+        return True
+    except AssertionError:
+        return False
+
+is_correct = test_check_number()
+requests.post(f""http://resbaz.auckland-cer.cloud.edu.au/"", params={
+  ""question"": 8,
+  ""answer"": In[-1],
+  ""participant_name"": participant_name,
+  ""is_correct"": is_correct
+}).json()",True
+2024-07-10 02:34:16.801219,Therese Featherston,8,"# @title Check Answer for Exercise 8
+import requests
+def test_check_number():
+    try:
+        assert check_number(10) == ""Positive""
+        assert check_number(-5) == ""Negative""
+        assert check_number(0) == ""Zero""
+        return True
+    except AssertionError:
+        return False
+
+is_correct = test_check_number()
+requests.post(f""http://resbaz.auckland-cer.cloud.edu.au/"", params={
+  ""question"": 8,
+  ""answer"": In[-1],
+  ""participant_name"": participant_name,
+  ""is_correct"": is_correct
+}).json()",False
+2024-07-10 02:34:38.746848,Therese Featherston,8,"# @title Check Answer for Exercise 8
+import requests
+def test_check_number():
+    try:
+        assert check_number(10) == ""Positive""
+        assert check_number(-5) == ""Negative""
+        assert check_number(0) == ""Zero""
+        return True
+    except AssertionError:
+        return False
+
+is_correct = test_check_number()
+requests.post(f""http://resbaz.auckland-cer.cloud.edu.au/"", params={
+  ""question"": 8,
+  ""answer"": In[-1],
+  ""participant_name"": participant_name,
+  ""is_correct"": is_correct
+}).json()",False
+2024-07-10 02:35:39.757314,Tithi Gandhi,8,"# @title Check Answer for Exercise 8
+import requests
+def test_check_number():
+    try:
+        assert check_number(10) == ""Positive""
+        assert check_number(-5) == ""Negative""
+        assert check_number(0) == ""Zero""
+        return True
+    except AssertionError:
+        return False
+
+is_correct = test_check_number()
+requests.post(f""http://resbaz.auckland-cer.cloud.edu.au/"", params={
+  ""question"": 8,
+  ""answer"": In[-1],
+  ""participant_name"": participant_name,
+  ""is_correct"": is_correct
+}).json()",False
+2024-07-10 02:35:57.298853,Kasey Kiesewetter,8,"# @title Check Answer for Exercise 8
+import requests
+def test_check_number():
+    try:
+        assert check_number(10) == ""Positive""
+        assert check_number(-5) == ""Negative""
+        assert check_number(0) == ""Zero""
+        return True
+    except AssertionError:
+        return False
+
+is_correct = test_check_number()
+requests.post(f""http://resbaz.auckland-cer.cloud.edu.au/"", params={
+  ""question"": 8,
+  ""answer"": In[-1],
+  ""participant_name"": participant_name,
+  ""is_correct"": is_correct
+}).json()",False
+2024-07-10 02:37:20.226319,Ben,8,"# @title Check Answer for Exercise 8
+import requests
+def test_check_number():
+    try:
+        assert check_number(10) == ""Positive""
+        assert check_number(-5) == ""Negative""
+        assert check_number(0) == ""Zero""
+        return True
+    except AssertionError:
+        return False
+
+is_correct = test_check_number()
+requests.post(f""http://resbaz.auckland-cer.cloud.edu.au/"", params={
+  ""question"": 8,
+  ""answer"": In[-1],
+  ""participant_name"": participant_name,
+  ""is_correct"": is_correct
+}).json()",False
+2024-07-10 02:37:30.968552,Jenny Lee,8,"# @title Check Answer for Exercise 8
+import requests
+def test_check_number():
+    try:
+        assert check_number(10) == ""Positive""
+        assert check_number(-5) == ""Negative""
+        assert check_number(0) == ""Zero""
+        return True
+    except AssertionError:
+        return False
+
+is_correct = test_check_number()
+requests.post(f""http://resbaz.auckland-cer.cloud.edu.au/"", params={
+  ""question"": 8,
+  ""answer"": In[-1],
+  ""participant_name"": participant_name,
+  ""is_correct"": is_correct
+}).json()",False
+2024-07-10 02:37:33.182402,Jieyun Wu,8,"# @title Check Answer for Exercise 8
+import requests
+def test_check_number():
+    try:
+        assert check_number(10) == ""Positive""
+        assert check_number(-5) == ""Negative""
+        assert check_number(0) == ""Zero""
+        return True
+    except AssertionError:
+        return False
+
+is_correct = test_check_number()
+requests.post(f""http://resbaz.auckland-cer.cloud.edu.au/"", params={
+  ""question"": 8,
+  ""answer"": In[-1],
+  ""participant_name"": participant_name,
+  ""is_correct"": is_correct
+}).json()",False
+2024-07-10 02:37:35.723349,Simon Esling,8,"# @title Check Answer for Exercise 8
+import requests
+def test_check_number():
+    try:
+        assert check_number(10) == ""Positive""
+        assert check_number(-5) == ""Negative""
+        assert check_number(0) == ""Zero""
+        return True
+    except AssertionError:
+        return False
+
+is_correct = test_check_number()
+requests.post(f""http://resbaz.auckland-cer.cloud.edu.au/"", params={
+  ""question"": 8,
+  ""answer"": In[-1],
+  ""participant_name"": participant_name,
+  ""is_correct"": is_correct
+}).json()",False
+2024-07-10 02:37:41.749896,Yimei Chuah,8,"# @title Check Answer for Exercise 8
+import requests
+def test_check_number():
+    try:
+        assert check_number(10) == ""Positive""
+        assert check_number(-5) == ""Negative""
+        assert check_number(0) == ""Zero""
+        return True
+    except AssertionError:
+        return False
+
+is_correct = test_check_number()
+requests.post(f""http://resbaz.auckland-cer.cloud.edu.au/"", params={
+  ""question"": 8,
+  ""answer"": In[-1],
+  ""participant_name"": participant_name,
+  ""is_correct"": is_correct
+}).json()",False
+2024-07-10 02:37:52.255743,Jieyun Wu,8,"# @title Check Answer for Exercise 8
+import requests
+def test_check_number():
+    try:
+        assert check_number(10) == ""Positive""
+        assert check_number(-5) == ""Negative""
+        assert check_number(0) == ""Zero""
+        return True
+    except AssertionError:
+        return False
+
+is_correct = test_check_number()
+requests.post(f""http://resbaz.auckland-cer.cloud.edu.au/"", params={
+  ""question"": 8,
+  ""answer"": In[-1],
+  ""participant_name"": participant_name,
+  ""is_correct"": is_correct
+}).json()",False
+2024-07-10 02:37:59.881398,Jenny Lee,8,"# @title Check Answer for Exercise 8
+import requests
+def test_check_number():
+    try:
+        assert check_number(10) == ""Positive""
+        assert check_number(-5) == ""Negative""
+        assert check_number(0) == ""Zero""
+        return True
+    except AssertionError:
+        return False
+
+is_correct = test_check_number()
+requests.post(f""http://resbaz.auckland-cer.cloud.edu.au/"", params={
+  ""question"": 8,
+  ""answer"": In[-1],
+  ""participant_name"": participant_name,
+  ""is_correct"": is_correct
+}).json()",False
+2024-07-10 02:39:03.970830,Maira Fessardi,8,"# @title Check Answer for Exercise 8
+import requests
+def test_check_number():
+    try:
+        assert check_number(10) == ""Positive""
+        assert check_number(-5) == ""Negative""
+        assert check_number(0) == ""Zero""
+        return True
+    except AssertionError:
+        return False
+
+is_correct = test_check_number()
+requests.post(f""http://resbaz.auckland-cer.cloud.edu.au/"", params={
+  ""question"": 8,
+  ""answer"": In[-1],
+  ""participant_name"": participant_name,
+  ""is_correct"": is_correct
+}).json()",False
+2024-07-10 02:39:12.601848,Margaret Carpenter,1500,Option B the Waiter and Tips,True
+2024-07-10 02:39:20.486900,Rebecca M,1500,Option B the Waiter and Tips,True
+2024-07-10 02:39:27.279679,Maira Fessardi,8,"# @title Check Answer for Exercise 8
+import requests
+def test_check_number():
+    try:
+        assert check_number(10) == ""Positive""
+        assert check_number(-5) == ""Negative""
+        assert check_number(0) == ""Zero""
+        return True
+    except AssertionError:
+        return False
+
+is_correct = test_check_number()
+requests.post(f""http://resbaz.auckland-cer.cloud.edu.au/"", params={
+  ""question"": 8,
+  ""answer"": In[-1],
+  ""participant_name"": participant_name,
+  ""is_correct"": is_correct
+}).json()",False
+2024-07-10 02:39:44.242164,Maira Fessardi,8,"# @title Check Answer for Exercise 8
+import requests
+def test_check_number():
+    try:
+        assert check_number(10) == ""Positive""
+        assert check_number(-5) == ""Negative""
+        assert check_number(0) == ""Zero""
+        return True
+    except AssertionError:
+        return False
+
+is_correct = test_check_number()
+requests.post(f""http://resbaz.auckland-cer.cloud.edu.au/"", params={
+  ""question"": 8,
+  ""answer"": In[-1],
+  ""participant_name"": participant_name,
+  ""is_correct"": is_correct
+}).json()",False
+2024-07-10 02:39:49.081061,victor,8,"# @title Check Answer for Exercise 8
+import requests
+def test_check_number():
+    try:
+        assert check_number(10) == ""Positive""
+        assert check_number(-5) == ""Negative""
+        assert check_number(0) == ""Zero""
+        return True
+    except AssertionError:
+        return False
+
+is_correct = test_check_number()
+requests.post(f""http://resbaz.auckland-cer.cloud.edu.au/"", params={
+  ""question"": 8,
+  ""answer"": In[-1],
+  ""participant_name"": ""victor"",
+  ""is_correct"": is_correct
+}).json()",False
+2024-07-10 02:40:28.614404,victor,8,"# @title Check Answer for Exercise 8
+import requests
+def test_check_number():
+    try:
+        assert check_number(10) == ""Positive""
+        assert check_number(-5) == ""Negative""
+        assert check_number(0) == ""Zero""
+        return True
+    except AssertionError:
+        return False
+
+is_correct = test_check_number()
+requests.post(f""http://resbaz.auckland-cer.cloud.edu.au/"", params={
+  ""question"": 8,
+  ""answer"": In[-1],
+  ""participant_name"": ""victor"",
+  ""is_correct"": is_correct
+}).json()",True
+2024-07-10 02:40:34.917501,Isaac Bain,1500,Option B the Waiter and Tips,True
+2024-07-10 02:41:25.726187,Tithi Gandhi,1500,Option B the Waiter and Tips,True
+2024-07-10 02:41:51.970466,Lisa Watkins,1500,Option B the Waiter and Tips,True
+2024-07-10 02:41:54.127149,Jenny Lee,1500,Option B the Waiter and Tips,True
+2024-07-10 02:42:01.805611,Elisa Tam,1500,Option B the Waiter and Tips,True
+2024-07-10 02:42:02.613336,Mary Spring,1500,Option B the Waiter and Tips,True
+2024-07-10 02:42:19.041430,Erin Steed,1500,Option B the Waiter and Tips,True
+2024-07-10 02:42:19.711935,Jieyun Wu,1500,Option B the Waiter and Tips,True
+2024-07-10 02:44:21.128235,Lin,1500,Option B the Waiter and Tips,True
+2024-07-10 02:51:21.924277,Maira Fessardi,8,"# @title Check Answer for Exercise 8
+import requests
+def test_check_number():
+    try:
+        assert check_number(10) == ""Positive""
+        assert check_number(-5) == ""Negative""
+        assert check_number(0) == ""Zero""
+        return True
+    except AssertionError:
+        return False
+
+is_correct = test_check_number()
+requests.post(f""http://resbaz.auckland-cer.cloud.edu.au/"", params={
+  ""question"": 8,
+  ""answer"": In[-1],
+  ""participant_name"": participant_name,
+  ""is_correct"": is_correct
+}).json()",False
+2024-07-10 02:51:37.833449,Maira Fessardi,8,"# @title Check Answer for Exercise 8
+import requests
+def test_check_number():
+    try:
+        assert check_number(10) == ""Positive""
+        assert check_number(-5) == ""Negative""
+        assert check_number(0) == ""Zero""
+        return True
+    except AssertionError:
+        return False
+
+is_correct = test_check_number()
+requests.post(f""http://resbaz.auckland-cer.cloud.edu.au/"", params={
+  ""question"": 8,
+  ""answer"": In[-1],
+  ""participant_name"": participant_name,
+  ""is_correct"": is_correct
+}).json()",False
