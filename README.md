@@ -9,7 +9,7 @@ This repository contains resources for the ResBaz Aotearoa 2024 Python workshop.
 > [!IMPORTANT]
 > This workshop is designed for beginners with no prior experience in Python. We will use the [Google Colab](https://colab.research.google.com/) platform to run Python code. To further facilitate this, we have included buttons in the notebooks that will open the notebooks in Google Colab. Please use these.
 
-![Colab]([https://](https://colab.research.google.com/assets/colab-badge.svg))
+![Colab](https://colab.research.google.com/assets/colab-badge.svg)
 
 If in doubt, start here: `StartHere_ResBaz24Python.ipynb`
 
