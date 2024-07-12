@@ -38,51 +38,28 @@ Letting participants know to push the Colab button ![Colab](https://colab.resear
 > [!IMPORTANT]
 > make sure that you adjust the data in that notebook, so we can keep track of the feedback across multiple runs1
 
-### The current implmentation
-
-- currently, there is a Nectar VM running FastAPI (as configured in the `API.py`) file
-- the steps to set this up are detailed in the table below
-- longer-term we might want to move this to a more robust solution, e.g. a Docker container
-
-| Command                                                                 | Description                                                                  |
-|-------------------------------------------------------------------------|------------------------------------------------------------------------------|
-| `git clone https://github.com/UoA-eResearch/ResBaz24Python.git`         | clone the repo to the VM                                                     |
-| `cd ResBaz24Python/`                                                    | go in that directory                                                         |
-| `git checkout 'dev'`                                                    | make sure we are on the right branch (not main which is mainly for participants) |
-| `cat API.py`                                                            | see the content of the API script on the commandline                         |
-| `vim .ssh/authorized_keys`                                              | add other people's ssh keys if needed                                        |
-| `sudo apt update`                                                       | get latest update                                                            |
-| `sudo apt install python3-pip`                                          | install pip                                                                  |
-| `sudo apt install python-is-python3`                                     | install workaround not having to type python3 all the time (Ubuntu exclusive) |
-| `sudo pip install pandas --break-system-packages`                       | install packages required to run this 'backend'                              |
-| `sudo pip install fastapi --break-system-packages`                      | install packages required to run this 'backend'                              |
-| `pip install ipykernel --break-system-packages`                         | install packages required to run this 'backend'                              |
-| `pip install nbdime --break-system-packages`                            | install packages required to run this 'backend'                              |
-| `sudo fastapi dev API.py --host 0.0.0.0 --port 80`                      | run the fastapi server                                                       |
-| `crontab -e`                                                            | add this line "@reboot cd ResBaz24Python && sudo fastapi run API.py --port 80 &> fastapi.log" |
-| `cp answers.csv answers.csv.bak`                                        | backup answers                                                               |
-
-
 ## Component C: the *run sheet*
 
 Part 1 - Introduction
 - presenter A (estimation was 30min, first run took 45min)
   - From:  Introduction
   - To end of: variables and data types
+  - BREAK ☕️ 3min or so
 - presenter B (estimation was 30min, first run took 45min)
   - From: More complex data types
   - To end of: Functions
 
-BREAK
+BREAK ☕️ 5-10min
 
 Part 2 - Math Problem - Option A
 - presenter A (estimation was)
   - all of: A1
+  - BREAK ☕️ 3min or so
 - presenter B 
   - all of: A2
 - only if time: A3
 
-BREAK
+BREAK ☕️ 5-10min
 
 Part 3 - Waiter and Tips - Option B
 - presenter A (estimation was 30min, first run took 35min)
@@ -92,10 +69,9 @@ Part 3 - Waiter and Tips - Option B
 
 ## Component D: server setup
 
-- the server setup is detailed in the `API.py` file
-- the server is currently running on a Nectar VM
-- the server is running FastAPI
-- these commands were needed to set it up
+- currently, there is a Nectar VM running FastAPI (as configured in the `API.py`) file
+- the steps to set this up are detailed in the table below
+- longer-term we might want to move this to a more robust solution, e.g. a Docker container
 
 | Command                                                                 | Description                                                                  |
 |-------------------------------------------------------------------------|------------------------------------------------------------------------------|
