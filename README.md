@@ -36,7 +36,7 @@ Letting participants know to push the Colab button ![Colab](https://colab.resear
 - to gather this feedback in a *Pythonian* way asks you to run this Jupyter notebook in either another Google Colab session (this might be challenging if Google cuts down the number of concurrent sessions) or on your local machine (e.g. in VSC) and by pushing the relevant cell's play button repeatedly, the latest answers can be pulled
 
 > [!IMPORTANT]
-> make sure that you adjust the data in that notebook, so we can keep track of the feedback across multiple runs1
+> make sure that you adjust the data in that notebook, so we can keep track of the feedback across multiple runs
 
 ## Component C: the *run sheet*
 
