@@ -7,7 +7,7 @@ app = FastAPI()
 
 @app.get("/")
 def get():
-  return pd.read_csv("answers.csv", names=["timestamp", "participant_name", "question", "answer", "is_correct"]).to_dict(orient="records")
+  return pd.read_csv("answers.csv", names=["timestamp", "participant_name", "question", "answer", "is_correct"]).replace(pd.NA, None).to_dict(orient="records")
 
 @app.post("/")
 def post(question: int, answer: str, participant_name: str, is_correct: bool):
